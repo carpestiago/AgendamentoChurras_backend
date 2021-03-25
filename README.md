@@ -8,11 +8,11 @@ Na pasta do projeto, você pode rodar:
 
 ### `nodemon src/index.js`
 
-para inicializar o servidor.\
+para inicializar o servidor.
 
 ## Funcionalidades
 
-***MVP-1***
+Versão 1.0
 
 - Autenticação de usuário com hash de senha.
 - Controllers para rotas de cadastro e consulta de churrascos.
